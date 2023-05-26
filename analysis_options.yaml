@@ -6,7 +6,7 @@ analyzer:
     - "script/**"
     - "lib/generated/**"
     - "**/*.g.dart"
-    - "**/*.gr.dart"
+#    - "**/*.gr.dart"
     - "**/*.freezed.dart"
   language:
     strict-casts: true
